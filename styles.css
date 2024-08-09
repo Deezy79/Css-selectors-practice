@@ -1,0 +1,15 @@
+.description{
+    color: blue;
+}
+
+#intro-text{
+    background-color: lightgray;
+}
+
+h1{
+    font-weight: bold;
+}
+
+li{
+    text-decoration: underline;
+}
